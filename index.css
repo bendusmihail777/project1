@@ -1,11 +1,15 @@
 h1 {
     color:rgb(253, 9, 9) 
 }
+h2 {
+    color: rgb(157, 241, 22);
+}
 
 .page-title {
-    background:gray
+    background:rgb(55, 17, 223)
 }
-.page-text
- {
-    color: rgb(255, 80, 80)
+
+.page-text {
+    color: rgb(117, 26, 236);
 }
+
